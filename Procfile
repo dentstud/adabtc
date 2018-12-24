@@ -1,1 +1,1 @@
-worker: python eos-heroku.py
+worker: python ada-heroku.py
